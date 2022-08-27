@@ -10,7 +10,7 @@ Zhang, C., Yu, W., & Li, Z. (2022, May). Accessibility-based clustering for effi
 Yang, C., Yuan, K., Zhu, Q., Yu, W., & Li, Z. (2020). Multi-expert learning of adaptive legged locomotion. Science Robotics, 5(49), eabb2174.   
 + Which may be more suitable for A1:   
 Smith, L., Kew, J. C., Peng, X. B., Ha, S., Tan, J., & Levine, S. (2022, May). Legged robots that keep on learning: Fine-tuning locomotion policies in the real world. In 2022 International Conference on Robotics and Automation (ICRA) (pp. 1593-1599). IEEE.  
-+ Which consists multiple stages:   
++ Which consists of multiple stages:   
 Lee, J., Hwangbo, J., & Hutter, M. (2019). Robust recovery controller for a quadrupedal robot using deep reinforcement learning. arXiv preprint arXiv:1901.07517.  
 
 
